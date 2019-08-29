@@ -6,7 +6,7 @@
 
 1. Add the learn-co lecture notes repo as the remote, **this step only happens once**
 ```
-git remote add upstream https://github.com/learn-co-students/nyc-mhtn-ds-060319-lectures.git
+git remote add upstream https://github.com/learn-co-students/nyc-mhtn-ds-082619-lectures.git
 ```
 
 2. Check the remote is set and your lecture notes repo is correct.
@@ -28,7 +28,7 @@ git branch
 
 5. Merge the new changes from the upstream learn-co lecture notes repo, with a commit message
 ```
-git merge upstream/master -m 'what you updated'
+git merge upstream/V2 -m 'what you updated'
 ```
 
 6. Push the changes to the forked lecture repo :raised_hands:
